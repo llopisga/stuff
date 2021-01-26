@@ -168,7 +168,6 @@ alias dscvr='nmap -sP'
 
 
 # Stuff
-alias cheat='curl cheat.sh/'
 alias moon='curl wttr.in/Moon'
 alias ducks='du -ckhs -- * | sort -rn | head'
 alias star_wars='telnet towel.blinkenlights.nl'
